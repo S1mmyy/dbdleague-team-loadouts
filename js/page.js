@@ -1,7 +1,7 @@
 let killerData;
 async function getKillerData()
 {
-  let data = await fetch("/killerData.json");
+  let data = await fetch("json/killerData.json");
   data = await data.text();
   data = JSON.parse(data).data;
   return data;
