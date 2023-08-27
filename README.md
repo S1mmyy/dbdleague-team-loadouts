@@ -1,3 +1,4 @@
+## <https://s1mmyy.github.io/dbdleague-team-loadouts/>
 # DBDLeague Survivor Team Loadout Builder
 This project aims to provide a way for DBDLeague teams to build their survivor loadouts without having to have the game launched to select perks, and only rely on talking about what everyone is thinking of running, as well as having to look at the tier and killer specific perk bans. 
 
