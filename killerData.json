@@ -1,0 +1,136 @@
+{
+	"data": [
+		{
+			"character": "Trapper",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9f/K01_charSelect_portrait.png"
+		},
+		{
+			"character": "Wraith",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/K02_charSelect_portrait.png"
+		},
+		{
+			"character": "Hillbilly",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/K03_charSelect_portrait.png"
+		},
+		{
+			"character": "Nurse",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/K04_charSelect_portrait.png"
+		},
+		{
+			"character": "Huntress",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1a/K08_charSelect_portrait.png"
+		},
+		{
+			"character": "Shape",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/04/K05_charSelect_portrait.png"
+		},
+		{
+			"character": "Hag",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/K06_charSelect_portrait.png"
+		},
+		{
+			"character": "Doctor",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ad/K07_charSelect_portrait.png"
+		},
+		{
+			"character": "Cannibal",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/K09_charSelect_portrait.png"
+		},
+		{
+			"character": "Nightmare",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/K10_charSelect_portrait.png"
+		},
+		{
+			"character": "Pig",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/K11_charSelect_portrait.png"
+		},
+		{
+			"character": "Clown",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e1/K12_charSelect_portrait.png"
+		},
+		{
+			"character": "Spirit",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/K13_charSelect_portrait.png"
+		},
+		{
+			"character": "Legion",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/K14_charSelect_portrait.png"
+		},
+		{
+			"character": "Plague",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/68/K15_charSelect_portrait.png"
+		},
+		{
+			"character": "Ghost Face",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bd/K16_charSelect_portrait.png"
+		},
+		{
+			"character": "Demogorgon",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/K17_charSelect_portrait.png"
+		},
+		{
+			"character": "Oni",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c5/K18_charSelect_portrait.png"
+		},
+		{
+			"character": "Deathslinger",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/K19_charSelect_portrait.png"
+		},
+		{
+			"character": "Executioner",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/95/K20_charSelect_portrait.png"
+		},
+		{
+			"character": "Blight",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0b/K21_charSelect_portrait.png"
+		},
+		{
+			"character": "Twins",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/K22_charSelect_portrait.png"
+		},
+		{
+			"character": "Trickster",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3e/K23_charSelect_portrait.png"
+		},
+		{
+			"character": "Nemesis",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/K24_charSelect_portrait.png"
+		},
+		{
+			"character": "Cenobite",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/35/K25_charSelect_portrait.png"
+		},
+		{
+			"character": "Artist",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/19/K26_charSelect_portrait.png"
+		},
+		{
+			"character": "Onryō",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e2/K27_charSelect_portrait.png"
+		},
+		{
+			"character": "Dredge",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/49/K28_charSelect_portrait.png"
+		},
+		{
+			"character": "Mastermind",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/87/K29_charSelect_portrait.png"
+		},
+		{
+			"character": "Knight",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/44/K30_charSelect_portrait.png"
+		},
+		{
+			"character": "Skull Merchant",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/K31_charSelect_portrait.png"
+		},
+		{
+			"character": "Singularity",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/K32_charSelect_portrait.png"
+		},
+		{
+			"character": "Xenomorph",
+			"characterImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dc/K33_charSelect_portrait.png"
+		}
+	]
+}
