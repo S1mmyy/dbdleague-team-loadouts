@@ -3,7 +3,7 @@ body {
     height: 100vh;
 }
 
-.header {
+#header {
     display: flex;
     min-height: 50px;
     height: 5%;
@@ -14,7 +14,7 @@ body {
     background-color: darkgray;
 }
 
-.tabs {
+#tabs {
     width: 100%;
     max-height: calc(100% - 50px);
     height: 95%;
@@ -22,7 +22,7 @@ body {
     grid-template: "killer loadouts perks";
 }
 
-.killerTab {
+#killerTab {
     grid-area: killer;
     width: 15%;
     background-color: gray;
@@ -38,7 +38,7 @@ body {
     width: 172px;
 }
 
-.survivorLoadouts {
+#survivorLoadouts {
     grid-area: loadouts;
     width: 50%;
     background-color: dimgray;
@@ -80,7 +80,7 @@ body {
 #survivor4 {
 }
 
-.perkTab {
+#perkTab {
     grid-area: perks;
     width: 35%;
     background-color: gray;
