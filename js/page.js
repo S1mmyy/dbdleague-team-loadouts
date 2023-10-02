@@ -34,7 +34,7 @@ killerSelectElement.onchange = function updateKillerImage()
 }
 
 // define drag events
-let listBoxElements = document.getElementsByClassName("perkListBox");
+let listBoxElements = document.getElementsByClassName("perkBox");
 for (let i = 0; i < listBoxElements.length; i++)
 {
   listBoxElements[i].addEventListener("dragover", dragover_handler);
