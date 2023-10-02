@@ -50,7 +50,24 @@ body {
     justify-content: center;
 }
 
+.loadoutBox {
+    border: 3px solid forestgreen;
+    text-align: center;
+    font-size: 30px;
+    color: limegreen;
+}
+
 .loadout {
+    height: calc(100% - 35px);
+    display: grid;
+    grid-template-columns: 44% 44%;
+    grid-template-rows: 30% 30%;
+    grid-row-gap: 8px;
+    grid-column-gap: 8px;
+    justify-content: center;
+}
+
+.perk {
     border: 3px solid forestgreen;
 }
 
